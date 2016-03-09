@@ -1,0 +1,28 @@
+name: El Negocio del Deporte
+favicon: null
+layout_spectrum: 0.8449488391634077
+typography_spectrum: 0.6503319891635329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7081816529389471
+  lightness: 0.675152144394815
+  saturation: 0.037642208160832524
+  rhythmicContrast: 0.7678805778268725
+purpose: []
