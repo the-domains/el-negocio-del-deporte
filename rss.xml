@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[El Negocio del Deporte]]></title>
+        <description><![CDATA[El Negocio del Deporte]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 22:50:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La ITF y la WTA tienen más que perder que María Sharapova]]></title>
+            <description><![CDATA[<article><h1>La ITF y la WTA tienen más que perder que María Sharapova</h1><p>Maria Sharapova, la tenista rusa y ex número 1 del ranking mundial, se ha convertido en la atleta mejor pagada de la historia gracias a su elegancia dentro y fuera de la cancha de tenis. Sin embargo, el lunes nos enteramos que la campeona de Wimbledon, conocida por su profesionalismo, salió positiva en un examen de anti-dopaje después de perder en la cuarta ronda del Abierto de Australia ante Serena Williams. </p></article>]]></description>
+            <link>undefinedla-itf-y-la-wta-tienen-mas-que-perder-que-maria-sharapova/index.html</link>
+            <guid isPermaLink="false">171708ea-ffcb-49ea-b904-b87c2da0c6c0</guid>
+            <pubDate>Wed, 09 Mar 2016 22:49:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
